@@ -2,6 +2,8 @@
 
 A world-class, production-ready, cinematic 3D developer portfolio engineered for **Prince Kumar Jha** (Computer Science Engineering Student, AI Developer & Full Stack Developer at The Oxford College of Engineering, 2023–2027).
 
+🌐 **Live URL**: [Portfolio](https://portfolio-nine-weld-72jhkxrcug.vercel.app/)
+
 ---
 
 ## 🌟 Highlights & Features

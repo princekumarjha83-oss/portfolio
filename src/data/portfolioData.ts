@@ -56,6 +56,7 @@ export const PERSONAL_INFO = {
     "I continuously work on improving my programming, problem-solving, and software development skills through practical projects and learning."
   ],
   availability: "Open to Software Developer, Python & AI/ML Opportunities",
+  portfolioUrl: "https://portfolio-nine-weld-72jhkxrcug.vercel.app/",
   email: "princekumarjhacse2027@gmail.com",
   phone: "+91 9798097579",
   github: "https://github.com/princekumarjha83-oss",
